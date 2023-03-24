@@ -1,6 +1,7 @@
 {
   "store.home": {
     "blocks": ["rich-text",
+    "countdown",
     "responsive-layout.desktop#desktop",
     "responsive-layout.mobile#mobile",
     "slider-layout#home",

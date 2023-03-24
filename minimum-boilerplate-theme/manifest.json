@@ -11,6 +11,7 @@
     "postreleasy": "vtex publish --verbose"
   },
   "dependencies": {
+    "vtex.countdown": "0.x",
     "vtex.condition-layout": "1.x",
     "vtex.store-link": "0.x",
     "vtex.modal-layout": "0.x",
