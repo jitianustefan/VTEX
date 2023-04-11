@@ -1,0 +1,6 @@
+{
+  "admin/test": "test",
+  "store/test": "test",
+  "admin.label.application-title": "Contact Report",
+  "admin-example.navigation.search.kws": "contact, report"
+}
