@@ -1,0 +1,23 @@
+{
+  "memory": 256,
+  "ttl": 10,
+  "timeout": 2,
+  "minReplicas": 2,
+  "maxReplicas": 4,
+  "workers": 1,
+  "routes": {
+    "status": {
+      "path": "/_v/status/:code",
+      "public": true
+    },
+    "getClients": {
+      "path": "/_v/clientsReport",
+      "public": true
+    },
+    "createClient":{
+      "path": "/_v/cerere",
+      "public": true
+    }
+    
+  }
+}

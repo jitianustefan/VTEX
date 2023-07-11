@@ -1,0 +1,14 @@
+{
+  "countdown": {
+    "component": "Countdown"
+  },
+  "countdown.title": {
+    "component": "Title"
+  },
+    "tema1": {
+      "component": "Tema1"
+    },
+    "test1": {
+      "component": "Test1"
+    }
+}
